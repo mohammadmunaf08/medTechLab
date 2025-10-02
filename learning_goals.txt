@@ -1,0 +1,3 @@
+1. mastering git: As a developer github is a very useful tool to store and use the app later
+2. API: As we know what api is, for a developer its like a shortcut for functuning an app and understanding and using it efficiently will be a greate work
+3. full understanding on the basics
